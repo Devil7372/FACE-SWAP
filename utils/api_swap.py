@@ -1,5 +1,6 @@
 def swap_faces(path1, path2):
-    url = "https://your-api.com/face-swap"
+    api_key = "SG_bb63009dcbbc5d21"
+url = "https://api.segmind.com/v1/faceswap-v2"
     with open(path1, 'rb') as f1, open(path2, 'rb') as f2:
         files = {
             'image1': f1,
