@@ -2,14 +2,14 @@
   {
     "id": 1,
     "username": "admin",
-    "password": "admin123",  // Replace with hash in production
+    "password": "DEVIL9090",  // Replace with hash in production
     "email": "admin@example.com",
     "role": "admin"
   },
   {
     "id": 2,
     "username": "user1",
-    "password": "user123",  // Replace with hash in production
+    "password": "DEVIL9090",  // Replace with hash in production
     "email": "user1@example.com",
     "role": "user"
   }
